@@ -1,0 +1,8 @@
+ratogbm:
+  name: RatoGBM
+  title: Random Blogger
+  url: https://github.com/ratogbm
+  image_url: https://github.com/ratogbm.png
+  page: true
+  socials:
+    github: ratogbm

@@ -1,0 +1,8 @@
+{
+  "label": "Browser",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Stuff related to the browser."
+  }
+}
