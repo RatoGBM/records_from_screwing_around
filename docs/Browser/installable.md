@@ -5,4 +5,4 @@ title: Installable Websites
 
 # Changing Icons on MacOS
 
-[Originally Published on Medium](https://medium.com/@ratogbm/change-icons-of-browser-apps-mac-a21268d2283a)
+[Changing Icons on MacOS](https://medium.com/@ratogbm/change-icons-of-browser-apps-mac-a21268d2283a)
