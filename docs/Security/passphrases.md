@@ -1,5 +1,5 @@
 ---
-title: Passphrases are Might
+title: Passphrases
 ---
 
 [XKCD 936](https://xkcd.com/936/)
