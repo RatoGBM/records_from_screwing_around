@@ -28,9 +28,7 @@ export default function Home() {
     <Layout
       title={"Records of Messing Around"}
       description="RatoGBM's notes from messing around.">
-      <main>
-        <HomepageHeader />
-      </main>
+      <HomepageHeader />
     </Layout>
   );
 }
