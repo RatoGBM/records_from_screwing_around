@@ -16,6 +16,6 @@ title: File Sharing
 
 - [PrivateBin.info](https://privatebin.info/)
 - [Plic](https://github.com/mohd-akram/plic)
-- [OneTImeSecret](https://onetimesecret.com/)
+- [OneTimeSecret](https://onetimesecret.com/)
 - [Doppler](https://share.doppler.com/)
 - [RelaySecret](https://www.relaysecret.com/)

@@ -37,7 +37,7 @@ Username requirements:
 | Impersonator | US-President | famous person or organization | Anonymous, but generally rude. | [randomlists.com](https://www.randomlists.com/random-people) |
 | Swapped Letters | Sh3r!0ck | Some letters substituted with symbols | Sometimes used for impersonation. | Manual for now [Homoglyphs](../Security/homoglyphs.md) |
 
-#### [Generator](https://perchance.org/84evxjs40l)
+### [Generator](https://perchance.org/84evxjs40l)
 
 There are many other types usernames, and I will probably add them over time.
 

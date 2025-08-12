@@ -4,8 +4,16 @@ title: Web Games
 
 # Fun Games on the Web
 
-- [Minesweeper.online](https://minesweeper.online/) - competitive mindsweeper
-- [Dragonsweeper](https://dragonsweeper.com/New-Dragonsweeper-Version) - the title says it all
+- Puzzle
+  - [Minesweeper.online](https://minesweeper.online/) - competitive mindsweeper
+  - [Dragonsweeper](https://dragonsweeper.com/New-Dragonsweeper-Version) - the title says it all
+- Card Games
+  - [Die in the Dungeon](https://alarts.itch.io/die-in-the-dungeon)
+- [Vampire Survivors](https://poncle.itch.io/vampire-survivors)
+- [10 Minutes Till Dawn](https://flanne.itch.io/10-minutes-till-dawn)
+- [Shogun Showdown](https://roboatino.itch.io/shogunshowdown)
+- [Red Handed](https://badpiggy.itch.io/red-handed)
+
 - Puzzle Games
   - [Venngram](https://thexp.itch.io/venngram)
   - [Mimic](https://sourencho.itch.io/mimic)
@@ -19,6 +27,17 @@ title: Web Games
   - [Eyeballing Game](https://woodgears.ca/eyeball/)
 - Mini Lessons
   - [Prisoner's dilemma](https://ncase.me/trust/)
+
+- Stories
+  - [Novena](https://haraiva.itch.io/novena)
+
+- Rythm
+  - [Lofi Room](https://bearmask.itch.io/lofi-room)
+
+- Misc
+  - [Serentirove](https://alfredncy.itch.io/serenitrove)
+  - [Nippets](https://vatnisse-interactive.itch.io/nippets)
+
 ---
 
 ## To be tested
@@ -26,7 +45,6 @@ title: Web Games
 - [Bloodlore Chronicles](https://bloodlore-chronicles.com/)
 - [TheUselessWeb](https://theuselessweb.com/)
 - [A Dark Room](https://adarkroom.doublespeakgames.com/)
-- [Vampire Survivors](https://poncle.itch.io/vampire-survivors)
 - [Torn](https://www.torn.com/)
 - [Kingdom of Loadthing](https://www.kingdomofloathing.com/)
 - [Idle Paperclips](https://www.decisionproblem.com/paperclips)
