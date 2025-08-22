@@ -7,6 +7,7 @@ title: Web Games
 - Puzzle
   - [Minesweeper.online](https://minesweeper.online/) - competitive mindsweeper
   - [Dragonsweeper](https://dragonsweeper.com/New-Dragonsweeper-Version) - the title says it all
+  - [Cave of Cards](https://adamatomic.itch.io/caveofcards)
 - Card Games
   - [Die in the Dungeon](https://alarts.itch.io/die-in-the-dungeon)
 - [Vampire Survivors](https://poncle.itch.io/vampire-survivors)
@@ -22,9 +23,18 @@ title: Web Games
 - Guessing Games
   - [WildGuesser](https://wildguesser.com/)
 
+- Platformers
+  - [Frogfall](https://kultisti.itch.io/frogfall)
+
 - Minigames
   - [Door](https://ncase.me/door/)
   - [Eyeballing Game](https://woodgears.ca/eyeball/)
+  - [Just One Boss](https://aylanonsense.itch.io/just-one-boss)
+  - [Bases Loaded](https://kindanice.itch.io/bases-loaded)
+  - [6792km](https://stuffedwombat.itch.io/6792km)
+  - [Holding Out](https://plasmastarfish.itch.io/holding-out)
+  - [Dome Romantik](https://bippinbits.itch.io/dome-romantik)
+  - [Fair Squares](https://kindanice.itch.io/fair-squares)
 - Mini Lessons
   - [Prisoner's dilemma](https://ncase.me/trust/)
 
